@@ -7,22 +7,22 @@ const PopularCompanies = () => {
     {
       id: 1,
       title: "Microsoft",
-      location: "Street 10 Karachi, Pakistan",
-      openPositions: 10,
+      location: "Twin Tower, Noida",
+      openPositions: 3,
       icon: <FaMicrosoft />,
     },
     {
       id: 2,
       title: "Tesla",
-      location: "Street 10 Karachi, Pakistan",
-      openPositions: 5,
+      location: "Street 15, High Town, Bangalore",
+      openPositions: 7,
       icon: <SiTesla />,
     },
     {
       id: 3,
       title: "Apple",
-      location: "Street 10 Karachi, Pakistan",
-      openPositions: 20,
+      location: "Street 3, HiTech city, Hyderabad",
+      openPositions: 10,
       icon: <FaApple />,
     },
   ];

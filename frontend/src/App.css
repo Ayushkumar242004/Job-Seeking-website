@@ -84,7 +84,7 @@ p {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background: #fff;
+  background: #ffffff;
   padding: 20px 20px;
 }
 .authPage .container .header {
@@ -366,7 +366,7 @@ p {
   }
 }
 .howitworks {
-  background: #f1f3f6;
+  background: #a6e0fd;
 }
 .howitworks .container {
   max-width: 1500px;
@@ -500,7 +500,7 @@ p {
 }
 
 .companies {
-  background: #f1f3f6;
+  background: #a6e0fd;
   padding: 50px 0;
 }
 .companies .container {
@@ -1149,7 +1149,7 @@ p {
   }
 }
 nav {
-  background: #18191c;
+  background: #0341f8;
   padding: 0 20px;
 }
 nav .container {
